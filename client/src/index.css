@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+
+@import "tailwindcss";
+
+/* to use font everywhere add below font family from google font website  */
+
+*{
+  font-family: "Outfit", sans-serif;         
+}
+
+
+/* to hide vertical scroll bar  */
+
+::-webkit-scrollbar{
+  display: none;
+}
